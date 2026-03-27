@@ -57,6 +57,18 @@
     line-height: 2.5rem;
 }
 
+.skill-sub {
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+    font-size: 1.7rem;
+    color: var(--foreground);
+}
+
+.skill-txt {
+    font-size: 1.7rem;
+    line-height: 2.5rem;
+}
+
 @media (width > 600px){
     .skills .grid {
         /*tela com mais de 600px com 3 colunas*/
